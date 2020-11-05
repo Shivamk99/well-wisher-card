@@ -1,0 +1,41 @@
+body {
+  background: #75f4f8f5;
+  padding: 0.2rem 5%;
+  margin: 0.4rem 12%;
+  text-align: left;
+  
+}
+
+.main {
+  text-align: center;
+  background: azure;
+  box-shadow: 0px 6px 20px #001;
+  border: dotted 3px rgb(252, 201, 62);
+  display: grid;
+  height: 600px;
+  width: 850px;
+  animation: loading 0.5s linear;
+
+}
+
+
+.From{
+  font-family: 'Dancing Script', cursive;
+  text-align: left;
+}
+.nav {
+  text-align: left;
+  padding: 0.1rem;
+}
+
+@keyframes loading {
+  from {
+    scale: 0;
+    -webkit-transform: scale(0);
+  }
+
+  to {
+    scale: 1;
+    -webkit-transform: scale(1);
+  }
+}
