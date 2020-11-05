@@ -5,9 +5,6 @@ you can wish a anniversary, birthday wish, Happy new Year, etc..
 
 In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://well-wisher-card.netlify.app](http://well-wisher-card.netlify.app) to view it in the browser.
+### [Live Site](https://https://well-wisher-card.netlify.app)
 
 
