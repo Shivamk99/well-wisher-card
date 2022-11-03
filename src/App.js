@@ -4,7 +4,7 @@ import sketch from './sketch';
 import p5 from 'p5';
 //p5 is a JavaScript library used for creativity
 //your text to wish your friend  
-const TEXT = 'Hey, trunali!!';// it should be 4 letters not more not less,
+const TEXT = 'Happy New Year Shivam!';// it should be 4 letters not more not less,
 //eg: 1. Happy birthday Virat Kholi, 2. Happy Married Life Virat, 3. Happy Born Day Virat... 
 
 const App = () => {
